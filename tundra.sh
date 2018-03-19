@@ -25,6 +25,9 @@ echo ""
 echo "QUAL O TEMPO DO TESTE EM SEGUNDOS:"
 read TOTAL
 
+#apaga a pasta temporaria
+rm -rf arq/
+
 #cria a pasta temporaria
 mkdir arq
 
