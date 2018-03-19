@@ -9,7 +9,7 @@ Instalar em Ubuntu Server 14.04 em uma maquina modesta com pelo menos 4GB de ram
 
 1.0 Instalar o wget 
 
-osni@tundra# sudo apt-get install wget 
+<code> osni@tundra# sudo apt-get install wget </code>
 
 
 2.0 Criar uma pasta para armazenar o Tundra. 
