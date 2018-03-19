@@ -16,7 +16,7 @@ Instalar em Ubuntu Server 14.04 em uma maquina modesta com pelo menos 4GB de ram
 <code> cd /opt/tundra</code> 
 
 <h2> 3.0 Download do Script </h2>
-<code>wget </code>
+<code>wget https://raw.githubusercontent.com/byosni/Tundra/master/tundra.sh </code>
 
 <h2> 4.0 Dar permisão ao Arquivo </h2>
 <code>chmod +x /opt/tundra/tundra.sh </code>
