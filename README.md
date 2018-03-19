@@ -1,10 +1,11 @@
 <h1>Tundra </h1>
 
-Shell script para teste de stress em links corporativos, tesado até links de 200Mega.<br> 
-obs. o script faz vários downloads de iso´s linux espalhados pelo globo. <br>
-obs2. quando estiver executando o script é necessário olhar para o seu roteador de borda e verificar quanto de banda esta passando na internface de uplink com a internet. 
+Shell Script para teste de stress em links corporativos, testado em até links de 200Mega.<br> 
+<b>Obs.</b> O script faz vários downloads de iso´s linux espalhados pelo globo. <br>
+<b>Obs2.</b> Quando estiver executando o script é necessário olhar para o seu roteador de borda e verificar quanto de banda está sendo consumido na interface de uplink com a internet.<br>
 <br>
 Instalar em Ubuntu Server 14.04 em uma maquina modesta com pelo menos 4GB de ram Core i3. 
+<br>
 <br>
 <h2> 1.0 Instalar o wget </h2>
 
