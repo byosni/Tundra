@@ -8,22 +8,17 @@ Instalar em Ubuntu Server 14.04 em uma maquina modesta com pelo menos 4GB de ram
 <br>
 <h2> 1.0 Instalar o wget </h2>
 
-<code> osni@tundra# sudo apt-get install wget </code>
+<code> sudo apt-get install wget </code>
 
-2.0 Criar uma pasta para armazenar o Tundra. 
-<code> osni@tundra# mkdir /opt/tundra </code>
+<h2> 2.0 Criar uma pasta para armazenar o Tundra.</h2>
+<code> mkdir /opt/tundra </code> <br>
 <code> cd /opt/tundra</code> 
 
-3.0 Download do Script 
-
+<h2> 3.0 Download do Script </h2>
 <code> osni@tundra# wget </code>
 
-4.0 Dar permisão ao Arquivo 
-<code>
-osni@tundra# chmod +x /opt/tundra/tundra.sh 
-</code>
+<h2> 4.0 Dar permisão ao Arquivo </h2>
+<code> osni@tundra# chmod +x /opt/tundra/tundra.sh </code>
 
-5.0 Executar o arquivo 
+<h2> 5.0 Executar o arquivo <h2>
 <code> osni@tundra# bash /opt/tundra/tundra.sh </code>
-
-
