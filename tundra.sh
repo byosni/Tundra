@@ -119,5 +119,5 @@ done
 #mata todos os processos do wget
 killall wget
 
-#apaga a pasta temporaria
-rm -rf arq/
+#apaga a pasta tempo
+rm -rf /opt/tundra/arq
