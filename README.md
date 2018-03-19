@@ -22,4 +22,4 @@ Instalar em Ubuntu Server 14.04 em uma maquina modesta com pelo menos 4GB de ram
 <code>chmod +x /opt/tundra/tundra.sh </code>
 
 <h2> 5.0 Executar o arquivo </h2>
-<code>bash /opt/tundra/tundra.sh </code>
+<code>bash tundra.sh </code>
