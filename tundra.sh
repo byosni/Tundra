@@ -22,7 +22,7 @@ echo "###                                                                  ###"
 echo "########################################################################"
 echo ""
 echo ""
-echo "QUAL O TEMPO DO TESTE:"
+echo "QUAL O TEMPO DO TESTE EM SEGUNDOS:"
 read TOTAL
 
 #apaga a pasta temporaria
