@@ -23,3 +23,9 @@ Instalar em Ubuntu Server 14.04 em uma maquina modesta com pelo menos 4GB de ram
 
 <h2> 5.0 Executar o arquivo </h2>
 <code>bash tundra.sh </code>
+
+<h2> 6.0 Verificar URL estão ok </h2>
+o arquivo a seguir extrai a lista de arquivos do tundra.sh e executa se a URL esta ok
+
+<code>wget https://raw.githubusercontent.com/byosni/Tundra/master/test.sh </code>
+<code>bash test.sh </code>
