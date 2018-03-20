@@ -69,7 +69,6 @@ wget -b http://mirror.team-cymru.org/mint/debian/lmde-2-201503-cinnamon-64bit.is
 wget -b ftp://centos.mirror.rafal.ca/pub/CentOS/6.9/isos/x86_64/CentOS-6.9-x86_64-LiveDVD.iso > log.txt &&
 wget -b ftp://ftp.registro.br/pub/gter/gter36/videos/09-Redes_COMEP.mp4 > log.txt &&
 wget -b ftp://ftp.registro.br/pub/gter/gter20/iso/IPv6_Tour_SP.iso > log.txt &&
-wget -b http://ftp.lna.br/copdftp/17out01.tar > log.txt &&
 wget -b http://cdimage.kali.org/kali-2018.1/kali-linux-2018.1-amd64.iso > log.txt &&
 wget -b http://ftp.cl.debian.org/debian/dists/Debian8.10/Release > log.txt &&
 wget -b http://releases.ubuntu.com/17.10.1/ubuntu-17.10.1-desktop-amd64.iso > log.txt && 
